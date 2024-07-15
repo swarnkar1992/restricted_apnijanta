@@ -14,27 +14,27 @@
     "env": {
             "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": "1ee10fce7cb72aaf315b97f4b33decc0"
+            "value": "fc4648064f0bea07fa7775f048f81c14"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": "29939868"
+            "value": "23525620"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "6839085907:AAGTd0Py2IL-BHsv1J0xK5bHmofF3YTRhZ8"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": ""
+            "value": "BQCUGM2BmmVYORjnFBwgxStsLDrA5jFwUrMjrVutgiWWPKub8WzyyBdYQlzvngN4o3w_MecMwVAnhDyOx2jaoM7l10LTFCCt0tT-p5ibyoOm8tLWC2apGviPjOZMCql7vLURIq8Jh1YlYOemv9pM1eQ0zuwZ2hAqzVRUw8vZFg46pMKPdgcIf0RCjdl1cQvy3HsoBj7f9ChCTnfUusJnooyA3lod8tXZWKlrb9-FfgaZY_mzt5umbgjdmLQTN3960xQw3OqcO2_H8ydVLF1cDf-r7YjBIjt-cBAzfMz_ewyM7vGlvGSmiN8hPx_I3JWXoACqQwaxQuKl4UrOo_6W6yHkAAAAAT2nJNEA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": "5359880114"
+            "value": "5329331409"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": "restrgb"
+            "value": "forwardbotajnta"
         }
     },
     "stack": "container"
